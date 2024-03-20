@@ -1,4 +1,4 @@
-public class ExerciciosString {
+public class Palindromo {
 
     /*
     * 1. Limpar a frase OK
@@ -34,7 +34,7 @@ public class ExerciciosString {
 
     public static void main(String[] args) {
 
-        ExerciciosString ex = new ExerciciosString();
+        Palindromo ex = new Palindromo();
 
         System.out.println(ex.validarPalindromo("   ame    o    poema   "));
         System.out.println(ex.validarPalindromo("rene ri"));
